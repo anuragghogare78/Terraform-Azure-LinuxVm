@@ -1,0 +1,11 @@
+RG-Name = "Demo-Project"
+RG-location = "westeurope"
+VNET-Name = "Agent-01-VNET"
+Subnet-Name = "Agent-01-Subnet"
+Public-IP-Name = "Agent-01-Public-IP"
+NIC-Name = "Agent-01-NIC"
+NSG-Name = "Agent-01-NSG"
+VM-Name = "Agent-01"
+VM-Size = "Standard_D2als_v7"
+admin_username = "azureuser"
+Disk_Size = 30
